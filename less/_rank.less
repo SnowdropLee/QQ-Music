@@ -1,0 +1,52 @@
+.ranks {
+    margin: 10px;
+    .rank-list {
+        margin-bottom: 10px;
+        overflow: hidden;
+        .rank-item {
+            display: flex;
+            background: #fff;
+            text-decoration: none;
+            .rank-media {
+                width: 100px;
+                height: 100px;
+                img {
+                    width: 100px;
+                    height: 100px;
+                }
+            }
+        }
+        .rank-detial {
+            flex: 1;
+            padding: 0 10px;
+            position: relative;
+            h3 {
+                font-size: 16px;
+                color: #000;
+                font-weight: normal;
+                margin: 5px 0;
+            }
+            p {
+                font-size: 14px;
+                color: rgba(0,0,0,.5);
+                margin: 5px 0;
+                overflow: hidden;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+            }
+            &:after {
+                content: '';
+                display:block;
+                position: absolute;
+                right: 10px;
+                top: 50%;
+                margin-top: -4px;
+                width: 6px;
+                height: 6px;
+                border-right: 1px solid #b2b2b2;
+                border-bottom: 1px solid #b2b2b2;
+                transform: rotate(-45deg);
+            }
+        }
+    }
+}

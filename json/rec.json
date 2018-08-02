@@ -1,0 +1,51 @@
+{
+    "code": 0,
+    "data": {
+        "slider": [
+            {
+                "linkUrl": "https://y.qq.com/m/digitalbum/gold/index.html?_video=true&id=4045051&g_f=shoujijiaodian",
+                "picUrl": "http://y.gtimg.cn/music/common/upload/MUSIC_FOCUS/278633.jpg",
+                "id": 15615
+            },
+            {
+                "linkUrl": "http://y.qq.com/w/album.html?albummid=002GH0pj1uSvV9",
+                "picUrl": "http://y.gtimg.cn/music/common/upload/MUSIC_FOCUS/278238.jpg",
+                "id": 15619
+            },
+            {
+                "linkUrl": "https://y.qq.com/apg/240/index.html",
+                "picUrl": "http://y.gtimg.cn/music/common/upload/MUSIC_FOCUS/278634.jpg",
+                "id": 15612
+            },
+            {
+                "linkUrl": "https://y.qq.com/msa/cdreview/0_5409.html",
+                "picUrl": "http://y.gtimg.cn/music/common/upload/MUSIC_FOCUS/278397.jpg",
+                "id": 15611
+            },
+            {
+                "linkUrl": "http://y.qq.com/w/album.html?albummid=001Fn8UQ12jRtO",
+                "picUrl": "http://y.gtimg.cn/music/common/upload/MUSIC_FOCUS/278597.jpg",
+                "id": 15636
+            }
+        ],
+        "radioList": [
+            {
+                "picUrl": "http://y.gtimg.cn/music/photo/radio/track_radio_199_13_1.jpg",
+                "Ftitle": "热歌",
+                "radioid": 199
+            },
+            {
+                "picUrl": "http://y.gtimg.cn/music/photo/radio/track_radio_307_13_1.jpg",
+                "Ftitle": "一人一首招牌歌",
+                "radioid": 307
+            }
+        ],
+        "songList": [
+            {
+                "sonListDesc": "催泪大杀器！盘点演唱会经典万人大合唱"
+                
+                
+            }
+        ]
+    }
+}

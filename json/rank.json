@@ -1,0 +1,283 @@
+{
+    "code": 0,
+    "subcode": 0,
+    "message": "",
+    "default": 0,
+    "data": {
+        "topList": [
+            {
+                "id": 4,
+                "listenCount": 19300000,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_4_300_213922043.jpg",
+                "songList": [
+                    {
+                        "singername": "周杰伦",
+                        "songname": "不爱我就拉倒"
+                    },
+                    {
+                        "singername": "薛之谦",
+                        "songname": "哑巴"
+                    },
+                    {
+                        "singername": "Daddy Yankee",
+                        "songname": "Dura"
+                    }
+                ],
+                "topTitle": "巅峰榜·流行指数",
+                "type": 0
+            },
+            {
+                "id": 26,
+                "listenCount": 19300000,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_26_300_213902413.jpg",
+                "songList": [
+                    {
+                        "singername": "薛之谦",
+                        "songname": "哑巴"
+                    },
+                    {
+                        "singername": "周杰伦",
+                        "songname": "不爱我就拉倒"
+                    },
+                    {
+                        "singername": "烟把儿乐队",
+                        "songname": "纸短情长 (完整版)"
+                    }
+                ],
+                "topTitle": "巅峰榜·热歌",
+                "type": 0
+            },
+            {
+                "id": 27,
+                "listenCount": 15300000,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_27_300_213922043.jpg",
+                "songList": [
+                    {
+                        "singername": "周杰伦",
+                        "songname": "不爱我就拉倒"
+                    },
+                    {
+                        "singername": "薛之谦",
+                        "songname": "肆无忌惮"
+                    },
+                    {
+                        "singername": "金志文",
+                        "songname": "热血狂篮"
+                    }
+                ],
+                "topTitle": "巅峰榜·新歌",
+                "type": 0
+            },
+            {
+                "id": 28,
+                "listenCount": 9900000,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_28_300_213479474.jpg",
+                "songList": [
+                    {
+                        "singername": "深七",
+                        "songname": "9277"
+                    },
+                    {
+                        "singername": "电流女侠",
+                        "songname": "9277"
+                    },
+                    {
+                        "singername": "刘增瞳",
+                        "songname": "后来的我们"
+                    }
+                ],
+                "topTitle": "巅峰榜·网络歌曲",
+                "type": 0
+            },
+            {
+                "id": 5,
+                "listenCount": 9800000,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_5_300_213942399.jpg",
+                "songList": [
+                    {
+                        "singername": "薛之谦",
+                        "songname": "肆无忌惮"
+                    },
+                    {
+                        "singername": "薛之谦",
+                        "songname": "哑巴"
+                    },
+                    {
+                        "singername": "许嵩",
+                        "songname": "老古董"
+                    }
+                ],
+                "topTitle": "巅峰榜·内地",
+                "type": 0
+            },
+            {
+                "id": 6,
+                "listenCount": 5334200,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_6_300_213922043.jpg",
+                "songList": [
+                    {
+                        "singername": "周杰伦",
+                        "songname": "不爱我就拉倒"
+                    },
+                    {
+                        "singername": "莫文蔚",
+                        "songname": "半生缘（我们在这里相遇）"
+                    },
+                    {
+                        "singername": "萧敬腾",
+                        "songname": "你会在哪呢？"
+                    }
+                ],
+                "topTitle": "巅峰榜·港台",
+                "type": 0
+            },
+            {
+                "id": 3,
+                "listenCount": 10454100,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_3_300_213907427.jpg",
+                "songList": [
+                    {
+                        "singername": "K-391/Alan Walker/Julie Bergan/승리 (胜利)",
+                        "songname": "Ignite"
+                    },
+                    {
+                        "singername": "Charlie Puth",
+                        "songname": "The Way I Am"
+                    },
+                    {
+                        "singername": "OneRepublic/Logic",
+                        "songname": "Start Again"
+                    }
+                ],
+                "topTitle": "巅峰榜·欧美",
+                "type": 0
+            },
+            {
+                "id": 16,
+                "listenCount": 6756140,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_16_300_213797427.jpg",
+                "songList": [
+                    {
+                        "singername": "TWICE (트와이스)",
+                        "songname": "Wake Me Up"
+                    },
+                    {
+                        "singername": "PRODUCE 48 (프로듀스 48)",
+                        "songname": "내꺼야 (是我的) (PICK ME)"
+                    },
+                    {
+                        "singername": "曹承衍WOODZ (조승연)/SUMIN (수민)",
+                        "songname": "POOL"
+                    }
+                ],
+                "topTitle": "巅峰榜·韩国",
+                "type": 0
+            },
+            {
+                "id": 29,
+                "listenCount": 4557840,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_29_300_213893717.jpg",
+                "songList": [
+                    {
+                        "singername": "金玟岐",
+                        "songname": "梦"
+                    },
+                    {
+                        "singername": "TF家族",
+                        "songname": "你我"
+                    },
+                    {
+                        "singername": "毛不易",
+                        "songname": "牧马城市"
+                    }
+                ],
+                "topTitle": "巅峰榜·影视金曲",
+                "type": 0
+            },
+            {
+                "id": 17,
+                "listenCount": 2204360,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_17_300_213923516.jpg",
+                "songList": [
+                    {
+                        "singername": "井上苑子",
+                        "songname": "リメンバー (Remember)"
+                    },
+                    {
+                        "singername": "LiSA (織部里沙)",
+                        "songname": "Rising Hope"
+                    },
+                    {
+                        "singername": "暁月凛 (あかつき りん)",
+                        "songname": "Early Days"
+                    }
+                ],
+                "topTitle": "巅峰榜·日本",
+                "type": 0
+            },
+            {
+                "id": 201,
+                "listenCount": 264401,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150127163830.jpg",
+                "songList": [
+                    {
+                        "singername": "周杰伦",
+                        "songname": "不爱我就拉倒"
+                    },
+                    {
+                        "singername": "许嵩",
+                        "songname": "老古董"
+                    },
+                    {
+                        "singername": "K-391",
+                        "songname": "Ignite"
+                    }
+                ],
+                "topTitle": "巅峰榜·MV",
+                "type": 0
+            },
+            {
+                "id": 52,
+                "listenCount": 1859220,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_52_300_213874605.jpg",
+                "songList": [
+                    {
+                        "singername": "愚青",
+                        "songname": "臆想世界"
+                    },
+                    {
+                        "singername": "陈萝莉",
+                        "songname": "敲内脑"
+                    },
+                    {
+                        "singername": "陶心瑶",
+                        "songname": "我不想你"
+                    }
+                ],
+                "topTitle": "巅峰榜·腾讯音乐人原创榜",
+                "type": 0
+            },
+            {
+                "id": 36,
+                "listenCount": 4774580,
+                "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_36_300_201816159.jpg",
+                "songList": [
+                    {
+                        "singername": "郑阳亭",
+                        "songname": "你那么爱他"
+                    },
+                    {
+                        "singername": "冯鑫",
+                        "songname": "成都"
+                    },
+                    {
+                        "singername": "武勇",
+                        "songname": "一次就好"
+                    }
+                ],
+                "topTitle": "巅峰榜·K歌金曲",
+                "type": 0
+            }
+        ]
+    }
+}
