@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "pre": "node-sass -wro scss/app.scss css/app.css",
     "start": "webpack --config webpack.config.js",
-    "build": "npm start && lessc less/app.less dist/app.css && webpack "
+    "build": "npm start && lessc less/app.less dist/app.css && webpack && node server.js"
   },
   "repository": {
     "type": "git",
