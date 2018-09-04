@@ -1,7 +1,7 @@
 import { LYRIC_URL,SEARCH_URL } from './contansts.js'
 
 export function lyricUrl (songid) {
-    return `${LYRIC_URL}?songid=${songid}`
+    return `${LYRIC_URL}?id=${songid}`
 }
 
 export function albumCoverUrl (albummid){
